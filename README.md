@@ -37,6 +37,11 @@ Netflix has been the part of many people’s everyday lives especially during th
 <h2> :book: Problem Statement</h2>
 The goal of this project is to find similarity within groups of people to build a movie recommendation system for users. We are going to analyze a dataset from the Netflix database to explore the characteristics that people share in movies. We have experienced it ourselves or have been in the room, the endless scrolling of selecting what to watch.  Users spend more time deciding what to watch than watching their movie.
 
+* What is the optimal number of clusters obtained in this project?
+
+* Which techniques used to find out optimal number of clusters?
+
+
 <h2> :book: Data Summery</h2>
 
 ![image](https://user-images.githubusercontent.com/114068681/214813834-bfcc7a09-e070-4c17-b907-226ae0d978ac.png)
