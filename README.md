@@ -38,6 +38,10 @@ Netflix has been the part of many people’s everyday lives especially during th
 The goal of this project is to find similarity within groups of people to build a movie recommendation system for users. We are going to analyze a dataset from the Netflix database to explore the characteristics that people share in movies. We have experienced it ourselves or have been in the room, the endless scrolling of selecting what to watch.  Users spend more time deciding what to watch than watching their movie.
 
 <h2> :book: Data Summery</h2>
+
+![image](https://user-images.githubusercontent.com/114068681/214810938-38059491-95b7-42f8-a61b-c40d5fdc1294.png)
+
+
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine.
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
