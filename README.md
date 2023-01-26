@@ -1,11 +1,15 @@
 
 <h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 <p align="center"> 
 
 
 ![image](https://user-images.githubusercontent.com/114068950/212829142-de9e1318-4566-4b1f-939c-924b3f4c4dc9.png)
+
+
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
+
+
 
 
 
@@ -96,6 +100,12 @@ Here, we wish to gain important statistical insights from our data and analyze t
 Clustering or cluster analysis is a machine learning technique that groups unlabeled data sets. This is a method of grouping data points into distinct clusters of similar data points. Potentially similar objects are grouped with little or no similarity to another group. remain in.” can be defined. This is done by finding similar patterns such as shape, size, color, and behavior in unlabeled datasets and classifying them according to the presence or absence of those similar patterns. This is an unsupervised learning method. Therefore, no oversight is provided to the algorithm and it processes unlabeled datasets. Applying this clustering technique provides a cluster ID for each cluster or group. ML systems can use this ID to simplify processing of large and complex data sets.
 
 # 📖 Result
+
+![image](https://user-images.githubusercontent.com/114068681/214816767-0d851818-7b3b-4dfe-a891-202a66641d7d.png)
+
+* Optimal number of clusters obtained in this method is 2 with the help of silhoutte score and elbow method.
+
+* Elbow method and Dendrogram is used to find out optimal number of clusters.
 
 # 📖 Conclusion
 
