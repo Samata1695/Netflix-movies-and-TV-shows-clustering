@@ -38,8 +38,7 @@ Netflix has been the part of many people’s everyday lives especially during th
 The goal of this project is to find similarity within groups of people to build a movie recommendation system for users. We are going to analyze a dataset from the Netflix database to explore the characteristics that people share in movies. We have experienced it ourselves or have been in the room, the endless scrolling of selecting what to watch.  Users spend more time deciding what to watch than watching their movie.
 
 <h2> :book: Data Summery</h2>
-
-![image](https://user-images.githubusercontent.com/114068681/214810938-38059491-95b7-42f8-a61b-c40d5fdc1294.png)
+![Uploading image.png…]()
 
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine.
@@ -95,4 +94,11 @@ Clustering or cluster analysis is a machine learning technique that groups unlab
 # 📖 Conclusion
 
 With the help of silhouette score ,optimality test performed for 15 clusters. And we obtained K=2 as a optimal point with the help of elbow method and K Means is best for identification than Hierarchical as the evaluation metrics also indicates the same. DBSCAN used to show the areas of high density are separated by the areas of low density. Because of this, the clusters can be found in any arbitrary shape.
+
+# 📜 Credits
+Samata Parulekar | Aspiring Data Scientist
+
+linkedin.com/in/samatap
+
+# 📚 References
 
