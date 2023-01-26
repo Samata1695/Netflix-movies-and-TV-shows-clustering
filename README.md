@@ -103,3 +103,9 @@ linkedin.com/in/samatap
 
 # 📚 References
 
+* GeekforGeeks (https://www.geeksforgeeks.org/removing-stop-words-nltk-python/?ref=lbp)
+
+* Kaggle (https://www.kaggle.com/)
+
+* Analytics Vidya
+
